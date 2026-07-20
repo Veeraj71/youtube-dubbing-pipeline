@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Project output and temporary files
+output/
+Output/
+*.mp3
+*.wav
+*.mp4
+*.m4a
+*.webm
+
+# Large Binaries (bundled FFmpeg/FFprobe executables)
+ffmpeg
+ffprobe
+*.exe
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db

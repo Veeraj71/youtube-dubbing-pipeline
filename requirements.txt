@@ -1,0 +1,7 @@
+yt-dlp
+git+https://github.com/openai/whisper.git
+edge-tts
+pydub==0.25.1
+tqdm==4.66.4
+torch==2.3.1
+torchaudio==2.3.1
